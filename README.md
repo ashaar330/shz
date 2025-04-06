@@ -1,1 +1,1 @@
-# shz
+streamlit==1.40.1
